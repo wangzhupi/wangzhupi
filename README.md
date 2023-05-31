@@ -1,6 +1,6 @@
 - 👋 Hi, I’m wangzijian
 - 👀 I’m interested in CV
-- 🌱 I’m currently learning CV
+- 🌱 I’m currently learning CV and deploy
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me pengyuyan1010@163.com
 
